@@ -4,7 +4,7 @@
     "test": "node test"
   },
   "version": "1.0.0",
-  "description": "The Chromium's RSA library (jsbn - Tom Wu)",
+  "description": "RSA library is used by Chromium (jsbn - Tom Wu)",
   "main": "chromium.js",
   "license": "MIT"
 }
