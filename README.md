@@ -1,5 +1,5 @@
-# The Chromium's RSA library
-This RSA library used by Chromium Benchmark here: https://chromium.googlesource.com/v8/v8.git/+/refs/heads/master/benchmarks/
+# RSA library is used by Chromium
+This RSA library is used by Chromium Benchmark here: https://chromium.googlesource.com/v8/v8.git/+/refs/heads/master/benchmarks/
 
 # Modified
 I fixed some errors (undefined variables, etc..).
