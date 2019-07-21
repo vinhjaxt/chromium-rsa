@@ -23,3 +23,19 @@ rsa.setPrivateEx(nValue, eValue, dValue, pValue, qValue, dmp1Value, dmq1Value, c
 const yourData = rsa.decrypt(encrypted)
 // Pls checkout test.js
 ```
+
+* Browser:
+```html
+<script src="chromium.js"></script>
+<script>
+const rsa = new RSAKey()
+rsa.setPublic(nValue, eValue)
+
+const encrypted = rsa.encrypt('Your Data')
+
+rsa.setPrivateEx(nValue, eValue, dValue, pValue, qValue, dmp1Value, dmq1Value, coeffValue)
+
+const yourData = rsa.decrypt(encrypted)
+// Pls checkout test.js
+</script>
+```
