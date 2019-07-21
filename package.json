@@ -1,0 +1,10 @@
+{
+  "name": "chromium-rsa",
+  "scripts": {
+    "test": "node test"
+  },
+  "version": "1.0.0",
+  "description": "The Chromium's RSA library (jsbn - Tom Wu)",
+  "main": "chromium.js",
+  "license": "MIT"
+}
