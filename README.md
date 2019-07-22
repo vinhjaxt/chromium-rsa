@@ -1,3 +1,6 @@
+# Pros
+Available in both NodeJS and browsers env
+
 # RSA library is used by Chromium
 This RSA library is used by Chromium Benchmark here: https://chromium.googlesource.com/v8/v8.git/+/refs/heads/master/benchmarks/
 
